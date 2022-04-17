@@ -19,7 +19,7 @@
       },
       {
         "question": "What is the capital of Serbia ?",
-        "choices": ["Belgrade", "Novi Sad", "Niš", "Subotica"],
+        "choices": ["Belgrade", "Novi Sad", "Niš", "odisa"],
         "answer": "Belgrade"
       },
       {
