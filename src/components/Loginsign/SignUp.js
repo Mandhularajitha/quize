@@ -80,6 +80,7 @@ const Signup = () => {
     </div>
   );
 };
+
 export {Signup};
 
 
